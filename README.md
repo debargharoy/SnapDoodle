@@ -1,0 +1,2 @@
+# SnapDoodle
+Online Photography Contest 
